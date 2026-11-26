@@ -6,10 +6,10 @@ Blender の Python スクリプトで毎日1つ 3D モデルを作る制作日�
 ## 作品一覧
 
 <!-- GALLERY:START -->
-作品数: 1
+作品数: 2
 
 <table>
-<tr><td align="center" valign="top"><a href="works/2026-11-26_hand-glass-bottle"><img src="works/2026-11-26_hand-glass-bottle/render.png" width="240" alt="手のかたちのガラス瓶 / Hand Glass Bottle"></a><br><sub>2026-11-26</sub><br><a href="works/2026-11-26_hand-glass-bottle">手のかたちのガラス瓶 / Hand Glass Bottle</a></td></tr>
+<tr><td align="center" valign="top"><a href="works/2026-11-27_cyber-dice"><img src="works/2026-11-27_cyber-dice/render.png" width="240" alt="サイバーなサイコロ / Cyber Dice"></a><br><sub>2026-11-27</sub><br><a href="works/2026-11-27_cyber-dice">サイバーなサイコロ / Cyber Dice</a></td><td align="center" valign="top"><a href="works/2026-11-26_hand-glass-bottle"><img src="works/2026-11-26_hand-glass-bottle/render.png" width="240" alt="手のかたちのガラス瓶 / Hand Glass Bottle"></a><br><sub>2026-11-26</sub><br><a href="works/2026-11-26_hand-glass-bottle">手のかたちのガラス瓶 / Hand Glass Bottle</a></td></tr>
 </table>
 <!-- GALLERY:END -->
 
